@@ -104,7 +104,7 @@ Pearson BTEC HND — ESOFT Metro Campus, Batticaloa
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio:** [mohamedaflal.unaux.com](https:)
+- 🌐 **Portfolio:** [Mohamed Aflal(https:)
 - 💼 **LinkedIn:** [Add Your LinkedIn Profile](https://www.linkedin.com/in/mohamedaflal01)
 - 🐙 **GitHub:** [Explore My Repositories](https://github.com/MohamedAflal-01)
 
