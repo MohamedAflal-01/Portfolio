@@ -1,0 +1,10 @@
+# robots.txt for Mohammed Aflal Portfolio
+#
+# IMPORTANT: Replace YOUR-DOMAIN.com in the Sitemap line below
+# with the real production domain before deploying.
+# Example: https://mohamedaflal.com/sitemap.xml
+
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml

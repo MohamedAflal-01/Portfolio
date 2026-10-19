@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml for Mohammed Aflal Portfolio
+  Single-page application — only the homepage is listed.
+  Section anchors (#about, #projects, etc.) are NOT separate URLs.
+
+  IMPORTANT: Replace YOUR-DOMAIN.com with the real production domain
+  before deploying (e.g. https://mohamedaflal.com/).
+  Also update <lastmod> to the date of your most recent deployment.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://YOUR-DOMAIN.com/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
